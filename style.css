@@ -23,6 +23,9 @@ h1{
 section{
     height: 500px;
 }
+p{
+    color: dimgray;
+}
 .link{
     text-decoration: none;
     background-color: orange;
@@ -32,4 +35,16 @@ section{
     color: white;
     font-size: bold;
 
+}
+.photo{
+    width: 40%;
+}
+.footer{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2px;
+}
+.footer-up{
+    width: 55%;
 }
